@@ -104,9 +104,4 @@ target/site/jacoco/index.html
 
 GitHub: [AnshumaanRath](https://github.com/AnshumaanRath)
 
-```
 
-Let me know if you'd like me to:
-- Generate a sample `jacoco-report.png`.
-- Create a downloadable ZIP with the above `README.md` file and a sample folder structure.
-```
